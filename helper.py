@@ -406,11 +406,3 @@ def discount_path_prepay_mbs(c,path,rates,prepay_ratio,dt,M):
     return value_array
     
 
-# print binomial tree
-def print_btree(tree):
-    return
-
-
-# print trinomial tree:
-def print_tritree(tree):
-    return
